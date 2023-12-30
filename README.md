@@ -1,5 +1,5 @@
 [![MasterHead](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2023/06/29133450/Should-kids-learn-text-based-coding.jpg)
-<h1 align="center">Hi 👋, I'm Rafan Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Rafsan Ahmed</h1>
 <h3 align="center">A passionate frontend programar from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
