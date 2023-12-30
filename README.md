@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/46906648/116898275-d798d780-ac3e-11eb-9195-0f0307b7782e.gif)
+[![MasterHead](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2023/06/29133450/Should-kids-learn-text-based-coding.jpg)
 <h1 align="center">Hi 👋, I'm Rafan Ahmed</h1>
 <h3 align="center">A passionate frontend programar from Bangladesh</h3>
 
